@@ -4,14 +4,14 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
-"main.dart.js": "5dbc69f445d01b07cc7e28c2084986fa",
+"main.dart.js": "d848b034a6c00c22cb8f792aa84a3bbc",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
 "splash.jpg": "d1aaf0242190e76b80289f2758416533",
 "favicon.png": "a93fd8a7ae1bebe8d1161726254b0592",
-"version.json": "ec8f3236160c227d7644a2b4df447c8e",
+"version.json": "3c4a6f7a5357f731934b72be7a39f4f8",
 "manifest.json": "1ad84a5e21893b562fe2be2c747873c7",
 "assets/AssetManifest.json": "82cf7ffbb8715933fe13d1d55764617f",
 "assets/images/liyue-active.png": "4ddb860deac444c92b09b44ea642f87b",
@@ -40,8 +40,8 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/NOTICES": "712029433585dbf44b2b1aa8e0b25ec5",
-"index.html": "b487b031dbeb1dce6d94a60662603717",
-"/": "b487b031dbeb1dce6d94a60662603717",
+"index.html": "efadb77319a5cc0389c83481453f0587",
+"/": "efadb77319a5cc0389c83481453f0587",
 "icons/Icon-512.png": "1ad08400902ba7f510a17c839f4a430c",
 "icons/Icon-192.png": "a93fd8a7ae1bebe8d1161726254b0592"
 };

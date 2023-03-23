@@ -40,8 +40,8 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/NOTICES": "712029433585dbf44b2b1aa8e0b25ec5",
-"index.html": "779ed900babbf24a1965f5439216df28",
-"/": "779ed900babbf24a1965f5439216df28",
+"index.html": "b73ebe0b17b2c88e6bd0aa1350b22402",
+"/": "b73ebe0b17b2c88e6bd0aa1350b22402",
 "icons/Icon-512.png": "1ad08400902ba7f510a17c839f4a430c",
 "icons/Icon-192.png": "a93fd8a7ae1bebe8d1161726254b0592"
 };

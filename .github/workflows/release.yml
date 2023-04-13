@@ -1,0 +1,26 @@
+name: release
+on:
+  push:
+    tags: ['v[0-9]+.[0-9]+.[0-9]+*']
+jobs:
+  release:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Download builds
+        run: |
+          wget https://github.com/kongying-tavern/flutter-genshin-map/archive/refs/heads/linux.zip
+          wget https://github.com/kongying-tavern/flutter-genshin-map/archive/refs/heads/windows.zip
+          wget https://github.com/kongying-tavern/flutter-genshin-map/archive/refs/heads/macos.zip
+          wget https://kongying-tavern.github.io/flutter-genshin-map/app-arm64-v8a-release.apk
+          wget https://kongying-tavern.github.io/flutter-genshin-map/app-armeabi-v7a-release.apk
+          wget https://kongying-tavern.github.io/flutter-genshin-map/app-x86_64-release.apk
+      - uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            app-*-release.apk
+            linux.zip
+            windows.zip
+            macos.zip

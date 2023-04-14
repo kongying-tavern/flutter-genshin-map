@@ -23,19 +23,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			D5y0KrPxjkAZxK8kwQcHIST3OMM=
+			r9/HH6J6JbHe/0up0gaYiP6iV0k=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"0f9cb42ab3f18e4019c4af24c107072124f738c3" or cdhash H"c3034c825fc4744da585f01b33728aff10d908c1"</string>
+			<string>cdhash H"afdfc71fa27a25b1deff4ba9d2069888fea25749" or cdhash H"91f7cd8d0e1e9db16a45ba2265a93a11673e5ff2"</string>
 		</dict>
 		<key>Frameworks/FMDB.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			M56v2T5lxVykPgrQv43sru+gNEY=
+			WGQK8LVpNa4VHd2gfMQkRitQo74=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"273622655384622a3ee9caa75035db9e7534e5db" or cdhash H"339eafd93e65c55ca43e0ad0bf8decaeefa03446" or cdhash H"55fe8394b197e3d1e0b96cc094590603aa59550e" or cdhash H"671afcbe71734540202201d772824e6873a5d3e6"</string>
+			<string>cdhash H"f481ecba357b7548df6e8227dbbe7cc00dd166c9" or cdhash H"58640af0b56935ae151ddda07cc424462b50a3be" or cdhash H"b484b179ee5e681ad9eb3214fcba37e976edcf6f" or cdhash H"168e5f436b3980b8d7e3fa71f6bfe2e909f8b603"</string>
 		</dict>
 		<key>Frameworks/FlutterMacOS.framework</key>
 		<dict>
@@ -203,28 +203,28 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			fHapnIbKLeS69y1X6HQkR12m+no=
+			eFsqfQTdGfsrgrHAtdNA2ea8Rr4=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"7c76a99c86ca2de4baf72d57e87424475da6fa7a" or cdhash H"b2bce4fbb171336f62a268133e029eb53df75e9a"</string>
+			<string>cdhash H"785b2a7d04dd19fb2b82b1c0b5d340d9e6bc46be" or cdhash H"bc693d6149472fbf170ddfd75dd2656399c65420"</string>
 		</dict>
 		<key>Frameworks/shared_preferences_foundation.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			wDfPPoGpbouBMnnW860gluBn0TA=
+			94tVUhZyqDMYoWiEwhAtHlS3+qY=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"c037cf3e81a96e8b813279d6f3ad2096e067d130" or cdhash H"eb54c9efbae785c991278570b65a856d6d12566a"</string>
+			<string>cdhash H"f78b55521672a83318a16884c2102d1e54b7faa6" or cdhash H"bc1b98c0f90059b3ceff1ad70c79d5df838ee99e"</string>
 		</dict>
 		<key>Frameworks/sqflite.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			8/7tCyzdTa/uopntbSk35Hfj0x0=
+			TXJM5lzAOB4f9Dvyx885aL+Dc3I=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"f3feed0b2cdd4dafeea299ed6d2937e477e3d31d" or cdhash H"7bfaca60dc5ef9cebca1e93a8e35dd1f24c9b19c"</string>
+			<string>cdhash H"4d724ce65cc0381e1ff43bf2c7cf3968bf837372" or cdhash H"1beed2f89f9797972377bc0595adf09927ad8eaf"</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
